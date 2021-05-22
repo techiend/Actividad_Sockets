@@ -1,6 +1,6 @@
-#INSTRUCCIONES
+# INSTRUCCIONES
 
-##Compilación
+## Compilación
 Una vez descargado el código fuente, ubicarse en la raiz del proyecto y ejecutar el comando:
 
     mvnw clean package
@@ -9,7 +9,7 @@ Esto compilará el proyecto y creara el archivo .jar a ejecutar dentro de la car
 
     target/Actividad2_Sockets-1.0.0.jar
     
-##Ejecución
+## Ejecución
 Ubicarse en el directorio: 
 
     target/
@@ -24,4 +24,4 @@ Una vez ubicado en el directorio puede ejecutar el proyecto de la siguiente form
         -jar 
         Actividad2_Sockets-1.0.0.jar
         
-#####*Nota: Los parametros -Dserver, -Dtcp_p y -Duser son obligatorios...*
+##### *Nota: Los parametros -Dserver, -Dtcp_p y -Duser son obligatorios...*
