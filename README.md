@@ -3,16 +3,14 @@
 ## Compilación
 Una vez descargado el código fuente, ubicarse en la raiz del proyecto y ejecutar el comando:
 
-    mvnw clean package
+    ./mvnw clean package
     
-Esto compilará el proyecto y creara el archivo .jar a ejecutar dentro de la carpeta 
+Esto compilará el proyecto y creara el archivo .jar a ejecutar dentro del directorio:
 
-    target/Actividad2_Sockets-1.0.0.jar
+`target/Actividad2_Sockets-1.0.0.jar`
     
 ## Ejecución
-Ubicarse en el directorio: 
-
-    target/
+Ubicarse en el directorio: `target/`
     
 Una vez ubicado en el directorio puede ejecutar el proyecto de la siguiente forma:
 
